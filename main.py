@@ -1,0 +1,2 @@
+print(Oprocentowanie_kredytu)
+
