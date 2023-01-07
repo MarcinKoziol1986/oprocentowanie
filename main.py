@@ -1,2 +1,0 @@
-print(Oprocentowanie_kredytu)
-
